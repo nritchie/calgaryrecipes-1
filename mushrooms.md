@@ -1,6 +1,7 @@
-INGREDIENTS
+## INGREDIENTS
+
 5 cups canned low-salt chicken broth
-1/2 ounce dried porcini mushrooms,* rinsed
+1/2 ounce dried porcini or portobello mushrooms,* rinsed
 2 tablespoons (1/4 stick) butter
 1 tablespoon extra-virgin olive oil
 2 1/2 cups finely chopped onions
